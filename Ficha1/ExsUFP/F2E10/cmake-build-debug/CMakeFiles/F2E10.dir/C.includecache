@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/F2E10/main.c
+stdio.h
+-
+

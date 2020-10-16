@@ -1,0 +1,3 @@
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/Ex1_9/cmake-build-debug/CMakeFiles/Ex1_9.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/Ex1_9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/Ex1_9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

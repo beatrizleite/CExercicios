@@ -1,0 +1,3 @@
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/F2E9/cmake-build-debug/CMakeFiles/F2E9.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/F2E9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/F2E9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
