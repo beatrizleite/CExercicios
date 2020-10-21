@@ -1,2 +1,2 @@
 # CExercicios
-Exercícioss em C das fichas de IAPg e das fichas de P1 de exercícios de Java.
+Exercícios em C das fichas de IAPg e das fichas de P1 de exercícios de Java.
