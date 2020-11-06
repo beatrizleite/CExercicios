@@ -1,0 +1,3 @@
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/TP/Comp3Num/cmake-build-debug/CMakeFiles/Comp3Num.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/TP/Comp3Num/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mbeat/OneDrive/Ambiente de Trabalho/CExercicios/Ficha1/ExsUFP/TP/Comp3Num/cmake-build-debug/CMakeFiles/rebuild_cache.dir
